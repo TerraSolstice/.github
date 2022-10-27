@@ -1,14 +1,14 @@
 #  <img src="https://user-images.githubusercontent.com/61543012/194775757-3d861746-93c3-42fc-b59f-d9e053de7391.png" height="35" width="35" align-items="center" justify-content="center" /> TerraSolstice
-It is importatnt to query the blockchain for meaningful metrics on upcoming trends in the metaverse. Let us guide you using data analytics and market sentiment.
+An Open-Source Tokenized Economy funding Global Renovation Projects and Geo-Software Solutions for Smart Cities.
 
-## Know when the next big thing in the metaverse is about to 3RUPT
+## Geographically Optimizing the Data in the universe and the metaverse
 
-🌐 Frustrated? Can't seem to buy before the blast-off?
+🌐 Using the studies of spatial science to build optimization into systems natively.
 
-🏙️ Use pre-built queries or custom queries, even third-party queries from other dapps.
+🏙️ Focusing on the enhancement of favorable condiitons in standard of living while improving accessiblity to resources overall.
 
-🌆 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+🌆 Leveraging geo-tech and geo-software to bolster the success of smart cities nad circular economies.
 
-💡 Be the FIRST to get the latest and the greatest.
+💡 Encouraging the use of tokenization, gamification and digitalization to clarify the path toward sustainable living.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
