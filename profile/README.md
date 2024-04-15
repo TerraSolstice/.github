@@ -2,6 +2,8 @@
 
 Welcome to TerraSolstice, where we revolutionize urban living through solar-powered innovation. Our integrated solutions seamlessly blend hardware, software, and blockchain technology to create smart cities that are not only efficient but also environmentally conscious.
 
+[TerraSolstice](https://ts.framer.ai) - [GG20]() - [Web3 Foundations Grants]()
+
 ## Table of Contents
 
 - [Introduction](#introduction)
